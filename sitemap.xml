@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Landing Page -->
   <url>
     <loc>https://beautyhouse.ae/</loc>
-    <priority>1.00</priority>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
   </url>
-  <!-- Add other pages you want indexed -->
+
+  <!-- If you add more real pages in future (not section IDs), add here:
   <url>
-    <loc>https://beautyhouse.ae/about.html</loc>
-    <priority>0.80</priority>
+    <loc>https://beautyhouse.ae/privacy-policy</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
   </url>
-  <url>
-    <loc>https://beautyhouse.ae/contact.html</loc>
-    <priority>0.80</priority>
-  </url>
+  -->
+
 </urlset>
