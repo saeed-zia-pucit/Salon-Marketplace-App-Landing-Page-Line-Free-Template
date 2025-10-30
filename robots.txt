@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://beautyhouse.ae/sitemap.xml
